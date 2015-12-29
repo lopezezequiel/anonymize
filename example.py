@@ -1,7 +1,7 @@
 import urllib
 import urllib2
 import requests
-from torify import enable_proxy, disable_proxy
+from anonymize import enable_proxy, disable_proxy
 
 #This url returns your ip as plain text
 url = 'http://icanhazip.com'
